@@ -1,0 +1,13 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+body {
+  padding-top: 70px;
+}
+a, a > span {
+  color: black;
+}
+.fa-music {
+  margin-top: 10px;
+  margin-left: 10px;
+}
